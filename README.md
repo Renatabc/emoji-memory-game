@@ -18,7 +18,7 @@ Concluído!!! :smile: :heart_eyes:
 As seguintes ferramentas foram utilizadas na construção dessa atividade:
 - VSCode (editor de código);
 
-## Extras
+## Créditos
 Efeito sonoro utilizado extraído do <a href="https://pixabay.com/sound-effects/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6896">Pixabay</a>
 
 ## Autora
